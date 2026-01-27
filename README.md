@@ -85,9 +85,8 @@ All tasks are compatible with *PsychoPy version 2025.1.1
 
 
 
-#### 
 
-#### **Process the data**
+### 🗃️ **Process the data**
 
 Data collected from the task can be processed using processData.py.
 ⚠️ Ensure that stroop_folder (line 6) is updated to match the path to your data folder
