@@ -9,6 +9,9 @@ This repository contains code and setup for running Stroop tasks in different co
 * stroop\_standard
 * stroop\_control
 
+It also includes a processing script *processData.py* to process collected data into a dataframe.
+
+All tasks are compatible with *PsychoPy version 2025.1.1
 
 
 
@@ -71,8 +74,7 @@ This repository contains code and setup for running Stroop tasks in different co
 
 
 
-* **Practice file path** controlled in the fetchPracticeData component (Begin Experiment, line 5) of the sequenceGeneration routine.
-
+* **Practice file path** controlled in the fetchPracticeData component (Begin Experiment, line 5) of the sequenceGeneration routine. ⚠️ Ensure that data_files (line 5) is updated to match the path to your data folder
 
 
 * **Initial trial duration** controlled in the addData component (Begin Routine, line 3) of the sequenceGeneration routine.
@@ -80,3 +82,19 @@ This repository contains code and setup for running Stroop tasks in different co
 
 
 * **Adaptation criteria (adaptive task only)** controlled in the addData component (End Routine, lines 27–33) of the experimentalTrial routine.
+
+
+
+#### 
+
+#### **Process the data**
+
+Data collected from the task can be processed using processData.py.
+⚠️ Ensure that stroop_folder (line 6) is updated to match the path to your data folder
+
+
+---
+
+**Questions or bug reports?**
+📧 Please contact: thipkanlayajaiaue@gmail.com
+
