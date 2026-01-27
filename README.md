@@ -11,7 +11,7 @@ This repository contains Stroop tasks in different conditions (used in “Differ
 
 It also includes a processing script *processData.py* to process collected data into a dataframe.
 
-All tasks are compatible with *PsychoPy version 2025.1.1
+All tasks are compatible with *PsychoPy version 2025.1.1*
 
 
 
