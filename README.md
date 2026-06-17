@@ -35,11 +35,11 @@ It also includes a processing script '*processData.py*' to process collected dat
 
       - *Word and colour distribution criteria* → line 76
 
-      - *Key responses* → lines 82–85 ⚠️ Must also match the allowedKeys field for the stroopResp component in both practiceTrial and experimentalTrial routines
+      - *Key responses* → lines 82–85 ⚠️ Must also match the allowedKeys field for the stroopResp component in both `practiceTrial` and `experimentalTrial` routines
 
 
 
-* **Feedback (text, colour, sound)** controlled in the fbCode component (Begin Routine) of the practiceTrial\_feedback or blank routine.
+* **Feedback (text, colour, sound)** controlled in the fbCode component (Begin Routine) of the `practiceTrial\_feedback` or `blank` routine.
 
 
 
