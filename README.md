@@ -1,5 +1,4 @@
 # **Stroop Task**
-
 ---
 *This repository contains Stroop tasks in different conditions (used in “Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task” (Jaiaue et al., under review):*
 
