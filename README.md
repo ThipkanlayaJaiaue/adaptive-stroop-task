@@ -1,8 +1,8 @@
 # **Stroop Task**
 
+```
 
-
-This repository contains Stroop tasks in different conditions (used in “Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task” (Jaiaue et al., under review):
+## *This repository contains Stroop tasks in different conditions (used in “Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task” (Jaiaue et al., under review):*
 
 * stroop\_practice
 * stroop\_adaptive
@@ -95,7 +95,9 @@ Data collected from the task can be processed using *processData.py*.
 
 
 ---
-**Please cite: Gallicchio, G., & Jaiaue, T. (2025). Adaptive-Stroop-Task. Zenodo. https://doi.org/10.5281/zenodo.17014552**
+## How to cite: Gallicchio, G., & Jaiaue, T. (2025). Adaptive-Stroop-Task. Zenodo. https://doi.org/10.5281/zenodo.17014552**
+
+---
 
 **Questions or bug reports?**
 📧 Please contact: thipkanlayajaiaue@gmail.com
