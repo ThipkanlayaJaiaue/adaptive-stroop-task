@@ -43,7 +43,7 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 
 
-* **Data identification and recording** controlled in the addData component (End Routine) of the practiceTrial or experimentalTrial routine.
+* **Data identification and recording** controlled in the addData component (End Routine) of the `practiceTrial` or `experimentalTrial` routine.
 
 
 
@@ -53,15 +53,15 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 
 
-* **Initial trial duration (calculation)** controlled in the fbCode\_2 component (Begin Routine) of the practiceBlock\_feedback routine.
+* **Initial trial duration (calculation)** controlled in the fbCode\_2 component (Begin Routine) of the `practiceBlock\_feedback` routine.
 
 
 
-* **Target accuracy** controlled in the fbCode\_2 component (End Routine) of the practiceBlock\_feedback routine.
+* **Target accuracy** controlled in the fbCode\_2 component (End Routine) of the `practiceBlock\_feedback` routine.
 
 
 
-* **Practice repetition (if accuracy not met)** controlled in the nReps field of the practiceRepetition loop.
+* **Practice repetition (if accuracy not met)** controlled in the nReps field of the `practiceRepetition` loop.
 
 
 
@@ -73,14 +73,14 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 
 
-* **Practice file path** controlled in the fetchPracticeData component (Begin Experiment, line 5) of the sequenceGeneration routine. ⚠️ Ensure that data_files (line 5) is updated to match the path to your data folder
+* **Practice file path** controlled in the fetchPracticeData component (Begin Experiment, line 5) of the `sequenceGeneration` routine. ⚠️ Ensure that data_files (line 5) is updated to match the path to your data folder
 
 
-* **Initial trial duration** controlled in the addData component (Begin Routine, line 3) of the sequenceGeneration routine.
+* **Initial trial duration** controlled in the addData component (Begin Routine, line 3) of the `sequenceGeneration` routine.
 
 
 
-* **Adaptation criteria (adaptive task only)** controlled in the addData component (End Routine, lines 27–33) of the experimentalTrial routine.
+* **Adaptation criteria (adaptive task only)** controlled in the addData component (End Routine, lines 27–33) of the `experimentalTrial` routine.
 
 
 ---
