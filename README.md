@@ -25,7 +25,7 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 
 
-* **Stimulus sequence** controlled in the stimuliCode component (End Routine) of the sequenceGeneration routine.
+* **Stimulus sequence** controlled in the stimuliCode component (End Routine) of the `sequenceGeneration` routine.
 
       - *Trial number* → trialAll\_num (line 4) ⚠️ Must be equal
 
