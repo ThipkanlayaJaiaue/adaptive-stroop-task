@@ -27,9 +27,9 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 * **Stimulus sequence** controlled in the stimuliCode component (End Routine) of the `sequenceGeneration` routine.
 
-      - *Trial number* → trialAll\_num (line 4) ⚠️ Must be equal
+      - *Trial number* → trialAll_num (line 4) ⚠️ Must be equal
 
-      - *Congruent vs. incongruent proportion* → trialCongruent\_proportion (line 5)
+      - *Congruent vs. incongruent proportion* → trialCongruent_proportion (line 5)
 
       - *Pool of Stroop words and colours* → pool (line 33)
 
@@ -39,7 +39,7 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 
 
-* **Feedback (text, colour, sound)** controlled in the fbCode component (Begin Routine) of the `practiceTrial\_feedback` or `blank` routine.
+* **Feedback (text, colour, sound)** controlled in the fbCode component (Begin Routine) of the `practiceTrial_feedback` or `blank` routine.
 
 
 
@@ -53,11 +53,11 @@ It also includes a processing script '*processData.py*' to process collected dat
 
 
 
-* **Initial trial duration (calculation)** controlled in the fbCode\_2 component (Begin Routine) of the `practiceBlock\_feedback` routine.
+* **Initial trial duration (calculation)** controlled in the fbCode_2 component (Begin Routine) of the `practiceBlock_feedback` routine.
 
 
 
-* **Target accuracy** controlled in the fbCode\_2 component (End Routine) of the `practiceBlock\_feedback` routine.
+* **Target accuracy** controlled in the fbCode_2 component (End Routine) of the `practiceBlock_feedback` routine.
 
 
 
