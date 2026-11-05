@@ -2,10 +2,10 @@
 
 This repository contains Stroop tasks in different conditions (used in “Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task” (Jaiaue et al., under review):
 
-* stroop\_practice
-* stroop\_adaptive
-* stroop\_standard
-* stroop\_control
+* stroop_practice
+* stroop_adaptive
+* stroop_standard
+* stroop_control
 
 It also includes a processing script '*processData.py*' to process collected data into a dataframe.
 
