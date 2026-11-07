@@ -3,8 +3,7 @@
 
 ![Stroop](https://github.com/ThipkanlayaJaiaue/adaptive-executive-function-tasks/blob/main/Inhibition-Stroop/adaptiveStroop.gif)
 
-
-This repository contains Stroop tasks in different conditions (used in “Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task” (Jaiaue et al., 2026; 10.1080/00140139.2026.2702629):
+This repository contains Stroop tasks in different conditions, as used in <u>**Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task**</u> (Jaiaue et al., 2026; https://doi.org/10.1080/00140139.2026.2702629).
 
 * stroop_practice
 * stroop_adaptive
