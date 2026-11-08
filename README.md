@@ -6,14 +6,26 @@
 This repository contains Stroop tasks in different conditions, as used in <u>**Differential Contributions of Inhibition and Task Engagement to Workload: Evidence from a Novel Adaptive Stroop Task**</u> (Jaiaue et al., 2026; https://doi.org/10.1080/00140139.2026.2702629).
 
 * stroop_practice
-* stroop_adaptive
-* stroop_standard
 * stroop_control
+* stroop_standard
+* stroop_adaptive
 
 It also includes a processing script '*processData.py*' to process collected data into a dataframe.
 
 ###### *All tasks are compatible with *PsychoPy version 2025.1.1**
 
+---
+
+### Task Configuration
+
+- **Control:** Congruent trials only, with a fixed trial duration based on familiarisation.
+- **Standard:** Equal numbers of congruent and incongruent trials, with a fixed trial duration based on familiarisation.
+- **Adaptive:** Equal numbers of congruent and incongruent trials. Trial duration was initially set based on familiarisation and adjusted on a trial-by-trial basis for incongruent trials.
+
+**Trial randomisation:** Trials were presented in random order, subject to the following constraints:
+- No more than two consecutive congruent or incongruent trials.
+- No two consecutive trials of the same congruency shared the same response key.
+- Each of the four colours appeared in at least 20% of trials, independently for word content and font colour.
 
 
 ---
